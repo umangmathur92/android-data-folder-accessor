@@ -1,4 +1,3 @@
-current_dir=$(pwd)
 echo 'Enter the absolute path to adb Directory(platform-tools folder)'
 read path
 echo 'Enter the package name of your application'
