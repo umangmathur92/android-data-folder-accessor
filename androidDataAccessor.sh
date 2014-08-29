@@ -6,11 +6,11 @@ echo 'Enter the absolute destination path'
 read destination
 echo 'You entered path as : '$path
 echo 'You entered package name as : '$packagename
-echo 'The zip file will be saved at : '$destination
+echo 'The .tar archive file will be saved at : '$destination
 cd $path
 ./adb backup -noapk $packagename
 cd $path
-dd if=backup.ab bs=24 skip=1|openssl zlib -d > $packagename.zip
+cat backup.ab | (dd bs=24 count=0 skip=1; cat) | zlib-flate -uncompress > $packagename.tar
 rm backup.ab
-cp $packagename.zip $destination
-rm $packagename.zip
+cp $packagename.tar $destination
+rm $packagename.tar
