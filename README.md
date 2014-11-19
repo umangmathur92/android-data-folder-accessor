@@ -20,4 +20,4 @@ Instructions :
 
 
 
-Note: Tested only on Ubuntu.
+Note: Tested only on Ubuntu. Prerequisite : Python's Zlib library. 
