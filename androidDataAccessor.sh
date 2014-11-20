@@ -12,4 +12,5 @@ echo 'You entered package name as : '$packagename
 java -jar abe.jar unpack backup.ab $packagename.tar
 rm backup.ab
 echo 'All the application data has been extracted to a .tar archive. Please ensure that you have appropriate software instaled on your machine to extract the same'
-read x
+echo 'Press any key to continue : '
+read input
