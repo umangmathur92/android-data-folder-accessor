@@ -5,6 +5,7 @@ A simple BASH Script to access the contents of /data/data folder of any android 
 With this script, you can access the internal database of any android application.
 Useful for android developers.
 
+Tested on Ubuntu 12.04 and 14.04
 ============================
 
 Software Credits :  
