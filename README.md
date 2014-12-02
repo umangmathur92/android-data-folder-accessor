@@ -6,7 +6,7 @@ With this script, you can access the internal database of any android appliction
 Useful for android developers.
 
 **How to use :**
-- Download Zip of tis repository and extract it. (Zip file of approx 4.4 Mb)
+- Download Zip of this repository and extract it. (Zip file of approx. 4.4 Mb)
 - Double click on androidDataAcessor.sh to run it.
 - You will be prompted to enter the name of your application
 - The script then searches your android device for all application packages with similar names.
