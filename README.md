@@ -26,3 +26,7 @@ The development of this software was made possible using the following component
 Licensed Under: *Apache License V2.0*  
 Link to the original project : [Android Backup Extractor](http://sourceforge.net/projects/adbextractor/).  
 abe.jar extracts .ab (android backup file) into a .tar archive
+
+
+
+<a href="https://flattr.com/submit/auto?user_id=umangmathur&url=https%3A%2F%2Fgithub.com%2Fumangmathur92%2Fandroid-data-folder-accessor" target="_blank"><img src="//api.flattr.com/button/flattr-badge-large.png" alt="Flattr this" title="Flattr this" border="0"></a>
