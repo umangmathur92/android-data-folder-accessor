@@ -28,4 +28,4 @@ Link to the original project : [Android Backup Extractor](http://sourceforge.net
 abe.jar extracts .ab (android backup file) into a .tar archive
 
 
-[![Flattr This](https://api.flattr.com/button/flattr-badge-large.png)](https://https://flattr.com/submit/auto?user_id=umangmathur&url=https%3A%2F%2Fgithub.com%2Fumangmathur92%2Fandroid-data-folder-accessor)
+[![Flattr This](https://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=umangmathur&url=https%3A%2F%2Fgithub.com%2Fumangmathur92%2Fandroid-data-folder-accessor)
